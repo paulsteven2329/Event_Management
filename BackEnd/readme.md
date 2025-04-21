@@ -1,4 +1,4 @@
-
+----------------------------------------------------------------------------------------
 Table: admins
 Create Table: CREATE TABLE `admins` (
   `admin_id` int NOT NULL AUTO_INCREMENT,
